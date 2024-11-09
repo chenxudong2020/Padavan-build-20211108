@@ -1,5 +1,5 @@
 #JDC-1
-name: Build Padavan
+name: Build JDC-1 KVR
 
 on: 
   release:
